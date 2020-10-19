@@ -1,0 +1,11 @@
+Para compilar el ejecutable se deberá ejecutar la siguiente línea de comandos desde la carpeta en la que está el código en C++:
+
+g++ -o ../BIN/practica1 p1.cpp 
+
+
+
+-----/////////FIXME
+
+
+Es muy importante que si se desea ejecutar el código se debe añadir al directorio FUENTES, en el que está el código en c++ una carpeta llamada "Tablas", en la que se encontrarán todos los casos de uso del problema MDP.
+Debido al exceso de tamaño no puedo introducirla yo, pero los archivos deben ser los mismos que hay subidos en la plataforma PRADO, insisto, en una carpeta llamada "Tablas" que debe estar en el directorio FUENTES.
